@@ -29,7 +29,7 @@ def test_delete_endpoint(client):
     assert response.status_code == 200
     assert b'Data deleted successfully' in response.data
   
-# End-to-End Testing:
+# End-to-End Testing Code:
 
 import requests
 
