@@ -49,16 +49,6 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 
-
-
-
-
-
-
-
-
-
-
 # Before run this module need to create database in sqllite with name data.db to done this run below code sinpet with this command "python create_db.py" then 
 '''
 import sqlite3
@@ -85,8 +75,7 @@ conn.close()
 print("Database 'data.db' with table 'data' created successfully.")
 
 '''
-
-
+##################################################################33
 '''
 {
     "key": "5",
